@@ -1,0 +1,4 @@
+create variable1
+input variable1
+calculate area of polygon as 2 * (3 + variable1)
+saveas result

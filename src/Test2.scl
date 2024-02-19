@@ -1,0 +1,4 @@
+create vars
+input vars
+calculate area of polygon as 10 * (8 + vars)
+saveas result
