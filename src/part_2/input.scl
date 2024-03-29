@@ -1,0 +1,5 @@
+x = 10;
+y = x + 5;
+yes = y * (x + 5);
+# This is a comment
+z = x * y + yes;
