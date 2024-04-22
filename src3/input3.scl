@@ -1,0 +1,8 @@
+x = 25
+y = 4
+z = 7
+result = x - 5 - y / 2 - z / 2 - 3
+print(result)
+
+yes = 'yes'
+print(yes)

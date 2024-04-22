@@ -1,0 +1,4 @@
+x = 20
+y = 5
+result = x - 3 - y / 2
+print(result)

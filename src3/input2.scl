@@ -1,0 +1,5 @@
+p = 30
+q = 5
+r = 2
+result = p - 10 - q / 2 - r
+print(result)
